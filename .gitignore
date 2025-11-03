@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.log
+
+# Složky s dočasnými soubory z editoru
+.vscode/
+.idea/
+
+# Pokud používáš nějaký build / cache (např. npm)
+node_modules/
+dist/
+build/
+
+
