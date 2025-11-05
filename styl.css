@@ -231,3 +231,15 @@ footer {
     font-size: 0.7em;
 
 }
+
+.skill-icon {
+    width: 120px;
+    height: 120px;
+    object-fit: contain; /* nebo cover, pokud chceš oříznutí */
+}
+
+.nahled-icon {
+    width: 240px;
+    height: 130px;
+    object-fit: contain; /* nebo cover, pokud chceš oříznutí */
+}
